@@ -1,10 +1,21 @@
-Group,Title,Image,Description,Address,Latitude,Longitude,Found Address,Match Quality,Source
-a,Trinity College,https://www.edx.org/sites/default/files/trinity1.jpg,"Not in the link <a href=""http://www.trincoll.edu"" target=""_blank"">view website</a> more not in the link","300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-a,Wesleyan University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://wesleyan.edu"" target=""_blank"">view website</a>",45 Wyllys Ave Middletown CT 06459,41.55709,-72.65691,"45 WYLLYS AVE, MIDDLETOWN, CT, 06459",Exact,US Census
-a,Connecticut College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://conncoll.edu"" target=""_blank"">view website</a>","270 Mohegan Ave, New London CT",41.381435,-72.10469,"270 MOHEGAN AVE PKWY, NEW LONDON, CT, 06320",Match,US Census
-a,Yale University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://yale.edu"" target=""_blank"">view website</a>",149 Elm St New Haven CT,41.309155,-72.92635,"149 ELM ST, NEW HAVEN, CT, 06511",Match,US Census
-a,University of Connecticut-Storrs,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://uconn.edu"" target=""_blank"">view website</a>","369 Fairfield Way, Storrs CT 06269",41.80665,-72.25352,"369 FAIRFIELD RD, STORRS, CT, 06269",Match,US Census
-a,Capital Community College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://capitalcc.edu"" target=""_blank"">view website</a>",950 Main St Hartford CT,41.69861,-72.72414,"950 MAIN ST, HARTFORD, CT, 06111",Match,US Census
-b,Dinosaur State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.dinosaurstatepark.org/"" target=""_blank"">view website</a>",400 West St Rock Hill CT 06067,41.652546,-72.65743,"400 WEST ST, ROCKY HILL, CT, 06067",Match,US Census
-b,Hammonasset State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.ct.gov/deep/hammonasset"" target=""_blank"">view website</a>","1288 Boston Post Road, Madison CT 06443",41.273247,-72.56934,"1288 BOSTON POST RD, MADISON, CT, 06443",Match,US Census
-c,State Capitol Building,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",41.762848,-72.68245,"210 CAPITOL AVE, HARTFORD, CT, 06106",Exact,US Census
+Rank,Summit,Country,"Elevation, m","Prom., m",Lat,Lon
+1,Mt. Everest,Nepal/Tibet,8848,8848,27.98333333,86.91666667
+2,Aconcagua,Argentina,6962,6962,-32.65,-70.01666667
+3,Mt. McKinley (Denali),US,6194,6138,63.1,-151.05
+4,Kilimanjaro,Tanzania,5895,5885,-3.066666667,37.35
+5,Cristobal Colon,Colombia,5700,5509,10.83333333,-73.68333333
+6,Mt. Logan,Canada,5959,5250,60.56666667,-140.4
+7,Pico de Orizaba (Citlaltepetl),Mexico,5636,4922,19.03333333,-97.26666667
+8,Vinson Massif,Antarctica,4892,4892,-78.51666667,-85.6
+9,Puncak Jaya,Indonesia,4884,4884,-4.066666667,137.1833333
+10,Gora Elbrus,Russia,5642,4741,43.35,42.43333333
+11,Mont Blanc,France/Italy,4809,4696,45.83333333,6.866666667
+12,Damavand,Iran,5610,4667,35.95,52.11666667
+13,Klyuchevskaya Volcano,Russia,4750,4649,56.05,160.65
+14,Nanga Parbat,Pakistan,8125,4608,35.23333333,74.6
+15,Mauna Kea,US,4205,4205,19.81666667,-155.4666667
+16,Jengish Chokusu (ex. Pik Pobedy),Kyrgyzstan/China,7439,4148,42.03333333,80.11666667
+17,Chimborazo,Ecuador,6267,4122,-1.466666667,-78.81666667
+18,Bogda Shan,China,5445,4122,43.8,88.33333333
+19,Namcha Barwa,China,7782,4106,29.63333333,95.05
+20,Kinabalu,Malaysia,4095,4095,6.066666667,116.5666667
