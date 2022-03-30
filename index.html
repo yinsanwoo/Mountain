@@ -30,8 +30,8 @@
 
   // Set up initial map center and zoom level
   var map = L.map('map', {
-    center: [27.98,86.92], // EDIT latitude, longitude to re-center map
-    zoom: 2,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+    center: [41,34.5], // EDIT latitude, longitude to re-center map
+    zoom: 3,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true,
     tap: false
   });
@@ -69,7 +69,7 @@
 
       var marker = L.marker([row.Lat, row.Lon], {
         opacity: 1
-      }).bindPopup(row.Summit).bindPopup(row.Rank);
+      }).bindPopup(row.Summit);
       
       marker.addTo(map);
     }
